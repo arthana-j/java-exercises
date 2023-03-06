@@ -1,2 +1,1 @@
-this is login page 
-next register
+this is register page
