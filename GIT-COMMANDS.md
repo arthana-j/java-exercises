@@ -8,9 +8,9 @@ git status - to check the status of the branch
 
 git add . - to add all files
 
-git add <filename> - to add a specific file 
+git add <file_name> - to add a specific file 
 
-git commit -m “<message>” -  to commit the changes
+git commit -m “<_message>” -  to commit the changes
 
 git push - to push the changes , if worked on existing branch
 
