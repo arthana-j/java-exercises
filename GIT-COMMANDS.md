@@ -1,6 +1,7 @@
 NOTE : DON’T CREATE NEW BRANCH FROM THE SUB BRANCHES, CREATE NEW BRANCH USING THE main BRANCH.
 
 git checkout <branch_name> - to switch to an existing branch
+
 git checkout -b <branch_name> - to switch to a branch by creating a new branch
 
 git status - to check the status of the branch
