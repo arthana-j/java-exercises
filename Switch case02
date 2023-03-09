@@ -1,0 +1,19 @@
+class Days(){
+    public static void main(string args[]){
+        string days;
+
+        Switch (days){
+          case "Monday":
+            System.out.println("Its 1st Day");
+            braek;
+            case "Tuesday":
+            System.out.println("Its 2nd Day");
+            braek;
+            case "Thursday":
+            System.out.println("Its 3rd Day");
+            braek;
+            default:
+            System.out.println("Its not weekday");
+        }
+    }
+}
