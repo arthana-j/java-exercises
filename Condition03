@@ -1,0 +1,13 @@
+class Person{
+    public static void main(string args[]){
+
+        string name = "Arthana";
+        int age  = 28;
+
+        if(name=="Arthana" && age==28){
+            System.out.println("Its you")
+        }else{
+            System.out.println("Its not you")
+        }
+    }
+}
