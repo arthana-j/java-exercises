@@ -1,0 +1,12 @@
+class Discount{
+    public static void main(string args[]){
+
+        int total = 1250;
+
+        if (total>= 1000){
+            System.ot.println("10% Discount")
+        }else{
+            System.out.println("No Discount")
+        }
+    }
+}
