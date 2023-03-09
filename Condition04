@@ -1,0 +1,12 @@
+class Electronics{
+    public static void main (string args[]){
+
+        string device;
+
+        if(device=="laptop"||device=="Mobile"){
+            System.out.println("Its a device")
+        }else{
+            System.out.println("Its not")
+        }
+    }
+}
