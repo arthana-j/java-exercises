@@ -17,7 +17,7 @@ git push - to push the changes , if worked on existing branch
 git push -u origin <created_branch_name> - to push the changes if the branch is created using
                                            git checkout -b <branch_name>. 
   
-                                           NOTE : ONLY USED ONCE FOR THE FIRST PUSH, THEN TREATED AS EXISTING BRANCH
+                                           NOTE : "git push -u origin <created_branch_name> " is ONLY USED ONCE FOR THE FIRST PUSH SINCE THE REMOTE REPO WON'Y BE HAVING THE LOCALLY CREATE BRANCH, THEN TREATED AS EXISTING BRANCH
 
 
 Happy Coding!!
